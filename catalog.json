@@ -16,13 +16,13 @@
         "Резервная копия с паролем; данные никуда не отправляются"
       ],
       "minApp": "4.0-beta.1",
-      "changelog": "База продуктов и готовых блюд расширена до 12 950 позиций по таблицам калорийности health-diet.ru; совпавшие продукты обновлены, записи дневника сохранены. Поиск ускорен.",
+      "changelog": "• У 1 500 готовых блюд появились рецепты: состав открывается прямо в карточке блюда, способ приготовления — на странице блюда.\n• После обновления коннектора показывается, что нового.",
       "icon": "M3,12h18c0,4.4 -3.6,8 -8,8h-2c-4.4,0 -8,-3.6 -8,-8zM5.3,10.6c0.9,-2.7 3.6,-4.6 6.7,-4.6 1.1,0 2.2,0.2 3.1,0.7l-2.8,3.9h-7zM14.9,10.6l4.6,-6.4 1.2,0.8 -4,5.6z",
-      "version": "1.0-beta.4",
-      "versionCode": 4,
-      "size": 801192,
-      "sha256": "5d29c6be4e8e8defebd128fe5fd4abd0d09b1854b32a75993a65d86cd66aa4c1",
-      "url": "https://raw.githubusercontent.com/dayu8080/kaikata-beta/main/modules/Pitanie-1.0-beta.4.kaikata"
+      "version": "1.0-beta.5",
+      "versionCode": 5,
+      "size": 870726,
+      "sha256": "7765d2561fa44ceb261fff1d415fd8db4823fa54c8d2c645ce93b32a75a6ea35",
+      "url": "https://raw.githubusercontent.com/dayu8080/kaikata-beta/main/modules/Pitanie-1.0-beta.5.kaikata"
     }
   ]
 }
